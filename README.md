@@ -1,10 +1,5 @@
 ## Olá, eu sou João Paulo!
 
-<div>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=joaopaulofeijao&show_icons=true&theme=radical" height="165">
-  <img alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofeijao&layout=compact&theme=radical&exclude_repo=match-prophet,datascience-ck0223,ia-ck0248,datascience-ck0268"> 
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
